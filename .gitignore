@@ -1,4 +1,6 @@
 # Using for C programming
 *~
 *.pdf
+*.o
+*.xoj
 .directory
